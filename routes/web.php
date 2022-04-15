@@ -37,10 +37,7 @@ Route::resource('/testimonials', 'App\Http\Controllers\FrontEnd\FrontEndTestimon
 Route::resource('/works', 'App\Http\Controllers\FrontEnd\FrontEndServiceController');
 // gallery
 Route::resource('/pictures', 'App\Http\Controllers\FrontEnd\FrontEndGalleryController');
-//food menu
-Route::resource('/foods', 'App\Http\Controllers\FrontEnd\FrontEndFoodMenuController');
-//drinks menu
-Route::resource('/drinks', 'App\Http\Controllers\FrontEnd\FrontEndDrinkMenuController');
+
 //posts
 Route::resource('/articles', 'App\Http\Controllers\FrontEnd\FrontEndPostController');
 //bookings
@@ -82,14 +79,6 @@ Route::resource('/bookings', 'App\Http\Controllers\BackEnd\BookingController');
 Route::resource('/feedbacks', 'App\Http\Controllers\BackEnd\FeedbackController');
 // Orders
 Route::resource('/orders', 'App\Http\Controllers\BackEnd\OrderController');
-// Food menu category
-Route::resource('/foodmenu_categories', 'App\Http\Controllers\BackEnd\FoodMenuCategoryController');
-// Food menu
-Route::resource('/foodmenus', 'App\Http\Controllers\BackEnd\FoodMenuController');
-// Drink menu category
-Route::resource('/drinkmenu_categories', 'App\Http\Controllers\BackEnd\DrinkMenuCategoryController');
-// Drink menu
-Route::resource('/drinkmenus', 'App\Http\Controllers\BackEnd\DrinkMenuController');
 // Gallery  category
 Route::resource('/gallery_categories', 'App\Http\Controllers\BackEnd\GalleryCategoryController');
 // Gallery 

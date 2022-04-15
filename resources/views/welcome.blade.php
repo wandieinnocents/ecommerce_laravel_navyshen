@@ -1,7 +1,7 @@
 @extends('frontend.layouts_frontend.master')
 
 @section('title')
-Home - La Cuisine De Sarah
+Home - Navy Cuisine De Sarah
 @endsection
 
 
