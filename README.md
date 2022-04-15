@@ -1,4 +1,4 @@
 
-## CAFE DE SARAH
+## eCommerce App - Navy Shen
 
-Restaurant web app 
+eCommerce web application developed in laravel
