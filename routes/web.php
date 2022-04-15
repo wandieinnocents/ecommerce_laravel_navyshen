@@ -79,6 +79,7 @@ Route::resource('/bookings', 'App\Http\Controllers\BackEnd\BookingController');
 Route::resource('/feedbacks', 'App\Http\Controllers\BackEnd\FeedbackController');
 // Orders
 Route::resource('/orders', 'App\Http\Controllers\BackEnd\OrderController');
+
 // Gallery  category
 Route::resource('/gallery_categories', 'App\Http\Controllers\BackEnd\GalleryCategoryController');
 // Gallery 
