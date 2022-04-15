@@ -5,14 +5,12 @@
             <!-- Left Menu Stargit ddt -->
             <ul class="metismenu list-unstyled" id="side-menu">
                 <!-- <li class="menu-title" data-key="t-menu">Menu</li> -->
-
                 <li>
                     <a href="/dashboard">
                         <i data-feather="home"></i>
                         <span data-key="t-dashboard">Dashboard</span>
                     </a>
                 </li>
-
                 <!-- Bookings -->
                 <li>
                     <a href="/bookings">
@@ -20,7 +18,6 @@
                         <span data-key="t-dashboard">Bookings</span>
                     </a>
                 </li>
-
                 <!-- Feedback -->
                 <li>
                     <a href="/feedbacks">
@@ -28,7 +25,6 @@
                         <span data-key="t-dashboard">Feedback</span>
                     </a>
                 </li>
-
                 <!-- Orders -->
                 <!-- <li>
                     <a href="{{ route('orders.index') }}">
@@ -37,8 +33,41 @@
                     </a>
                 </li> -->
 
+                <!-- Products -->
+                <li>
+                    <a href="javascript: void(0);" class="has-arrow">
+                        <i data-feather="grid"></i>
+                        <span data-key="t-apps">Products</span>
+                    </a>
+                    <ul class="sub-menu" aria-expanded="false">
+                        <li>
+                            <a href="/product_categories/create">
+                                <span data-key="t-calendar">Add Category</span>
+                            </a>
+                        </li>
 
-              
+                        <li>
+                            <a href="/product_categories">
+                                <span data-key="t-calendar"
+                                    >View Categories</span
+                                >
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/products/create">
+                                <span data-key="t-chat">Add Product</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/products">
+                                <span data-key="t-chat">View Products</span>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
                 <!-- Gallery -->
                 <li>
                     <a href="javascript: void(0);" class="has-arrow">
