@@ -54,7 +54,6 @@
                                 >
                             </a>
                         </li>
-
                         <!-- Add Subcategory -->
                         <li>
                             <a href="/product_categories">
