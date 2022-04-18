@@ -263,7 +263,7 @@
                 @can('permission-list')
                  <li>
                     <a href="javascript: void(0);" class="has-arrow">
-                        <i data-feather="grid"></i>
+                        <i class="fas fa-user-lock"></i>
                         <span data-key="t-apps">Permissions</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
