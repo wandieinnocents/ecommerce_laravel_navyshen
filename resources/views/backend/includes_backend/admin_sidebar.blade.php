@@ -107,7 +107,7 @@
                 <!-- Services -->
                 <li>
                     <a href="javascript: void(0);" class="has-arrow">
-                        <i data-feather="grid"></i>
+                        <i class=" fas fa-business-time "></i>
                         <span data-key="t-apps">Services</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
