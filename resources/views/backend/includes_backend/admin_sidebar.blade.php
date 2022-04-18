@@ -21,12 +21,13 @@
                 <!-- Feedback -->
                 <li>
                     <a href="/feedbacks">
-                        <i data-feather="users"></i>
+                        <i class=" fab fa-facebook-messenger "></i>
                         <span data-key="t-dashboard">Feedback</span>
                     </a>
                 </li>
                 <!-- Orders -->
                 <!-- <li>
+                    
                     <a href="{{ route('orders.index') }}">
                         <i data-feather="users"></i>
                         <span data-key="t-dashboard">Orders</span>
