@@ -61,7 +61,7 @@
                                     <div class="card-body bg-gradient bg-primary">
                                         <div class="row align-items-center">
                                             <div class="col-6">
-                                                <span class="text-light mb-3 lh-1 d-block text-truncate">Users</span>
+                                                <span class="text-light mb-3 lh-1 d-block text-truncate">Orders</span>
                                                 <h4 class="mb-3 text-light">
                                                     <span class="counter-value" data-target="5">0</span>
                                                 </h4>
@@ -85,7 +85,7 @@
                                     <div class="card-body bg-gradient bg-warning">
                                         <div class="row align-items-center">
                                             <div class="col-6">
-                                                <span class="text-muted mb-3 lh-1 d-block text-truncate">Food Menus</span>
+                                                <span class="text-muted mb-3 lh-1 d-block text-truncate">Products</span>
                                                 <h4 class="mb-3">
                                                     <span class="counter-value" data-target="20">0</span>
                                                 </h4>
@@ -109,7 +109,7 @@
                                     <div class="card-body bg-gradient bg-danger">
                                         <div class="row align-items-center">
                                             <div class="col-6">
-                                                <span class="text-muted mb-3 lh-1 d-block text-truncate">Drink Menus</span>
+                                                <span class="text-muted mb-3 lh-1 d-block text-truncate">Services</span>
                                                 <h4 class="mb-3">
                                                     <span class="counter-value" data-target="30">0</span>
                                                 </h4>
@@ -138,7 +138,7 @@
                                     <div class="card-body bg-gradient bg-success">
                                         <div class="row align-items-center">
                                             <div class="col-6">
-                                                <span class="text-light mb-3 lh-1 d-block text-truncate">Bookings</span>
+                                                <span class="text-light mb-3 lh-1 d-block text-truncate">Roles</span>
                                                 <h4 class="mb-3 text-light">
                                                     <span class="counter-value" data-target="10">0</span>
                                                 </h4>
@@ -163,7 +163,7 @@
                                     <div class="card-body bg-gradient bg-primary">
                                         <div class="row align-items-center">
                                             <div class="col-6">
-                                                <span class="text-light mb-3 lh-1 d-block text-truncate">Users</span>
+                                                <span class="text-light mb-3 lh-1 d-block text-truncate"> Permissions</span>
                                                 <h4 class="mb-3 text-light">
                                                     <span class="counter-value" data-target="5">0</span>
                                                 </h4>
@@ -187,7 +187,7 @@
                                     <div class="card-body bg-gradient bg-warning">
                                         <div class="row align-items-center">
                                             <div class="col-6">
-                                                <span class="text-muted mb-3 lh-1 d-block text-truncate">Food Menus</span>
+                                                <span class="text-muted mb-3 lh-1 d-block text-truncate">Users</span>
                                                 <h4 class="mb-3">
                                                     <span class="counter-value" data-target="20">0</span>
                                                 </h4>
