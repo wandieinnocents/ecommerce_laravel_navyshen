@@ -342,7 +342,7 @@
 
                 <li>
                     <a href="{{ route('logout') }}">
-                        <i data-feather="grid"></i>
+                        <i class=" fas fa-power-off"></i>
                         <span data-key="t-apps">Logout</span>
                     </a>
                     
