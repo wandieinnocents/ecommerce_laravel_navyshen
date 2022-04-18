@@ -211,7 +211,7 @@
                                     <div class="card-body bg-gradient bg-danger">
                                         <div class="row align-items-center">
                                             <div class="col-6">
-                                                <span class="text-muted mb-3 lh-1 d-block text-truncate">Drink Menus</span>
+                                                <span class="text-muted mb-3 lh-1 d-block text-truncate">Gallery</span>
                                                 <h4 class="mb-3">
                                                     <span class="counter-value" data-target="30">0</span>
                                                 </h4>
