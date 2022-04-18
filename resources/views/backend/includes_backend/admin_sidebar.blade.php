@@ -303,7 +303,6 @@
                             </a>
                         </li>
                     @endcan
-
                     <!-- Post categories list -->
                     @can('postcategories-list')
                         <li>
