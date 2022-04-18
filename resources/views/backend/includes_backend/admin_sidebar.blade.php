@@ -7,7 +7,7 @@
                 <!-- <li class="menu-title" data-key="t-menu">Menu</li> -->
                 <li>
                     <a href="/dashboard">
-                        <i data-feather="home"></i>
+                        <i class="fas fa-home "></i>
                         <span data-key="t-dashboard">Dashboard</span>
                     </a>
                 </li>
