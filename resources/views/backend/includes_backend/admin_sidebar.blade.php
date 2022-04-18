@@ -37,7 +37,7 @@
                 <!-- Products -->
                 <li>
                     <a href="javascript: void(0);" class="has-arrow">
-                        <i data-feather="grid"></i>
+                        <i class=" fab fa-product-hunt "></i>
                         <span data-key="t-apps">Products</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
