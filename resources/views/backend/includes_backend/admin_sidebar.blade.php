@@ -284,8 +284,6 @@
                     </ul>
                 </li>
                 @endcan
-
-
                 
                 @can('posts-section-dropdown')
                 <!-- Posts -->
