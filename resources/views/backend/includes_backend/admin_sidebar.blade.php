@@ -55,6 +55,23 @@
                             </a>
                         </li>
 
+                        <!-- Add Subcategory -->
+                        <li>
+                            <a href="/product_categories">
+                                <span data-key="t-calendar">Add Sub Category</span
+                                >
+                            </a>
+                        </li>
+
+                        <!-- View subcategories -->
+                        <li>
+                            <a href="/product_categories">
+                                <span data-key="t-calendar"
+                                    >View Sub Categories</span
+                                >
+                            </a>
+                        </li>
+
                         <li>
                             <a href="/products/create">
                                 <span data-key="t-chat">Add Product</span>
