@@ -338,11 +338,10 @@
                 </li>
                 @endcan
         
-              
 
                 <li>
                     <a href="{{ route('logout') }}">
-                        <i class=" fas fa-power-off"></i>
+                        <i class="fas fa-power-off "></i>
                         <span data-key="t-apps">Logout</span>
                     </a>
                     
