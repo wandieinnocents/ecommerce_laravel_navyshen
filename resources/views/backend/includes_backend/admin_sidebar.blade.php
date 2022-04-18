@@ -208,7 +208,8 @@
                     @can('user-list')
                     <li>
                     <a href="javascript: void(0);" class="has-arrow">
-                        <i class="fas fa-user-edit "></i>
+                        <i class="fas fa-users "></i>
+                        
                         <span data-key="t-apps">Users</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
@@ -235,7 +236,7 @@
                 @can('role-list')
                 <li>
                     <a href="javascript: void(0);" class="has-arrow">
-                        <i data-feather="grid"></i>
+                    <i class="fas fa-user-edit "></i>
                         <span data-key="t-apps">Roles</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
