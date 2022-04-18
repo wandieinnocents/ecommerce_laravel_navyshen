@@ -14,7 +14,7 @@
                 <!-- Bookings -->
                 <li>
                     <a href="/bookings">
-                        <i data-feather="users"></i>
+                        <i class=" fas fa-book "></i>
                         <span data-key="t-dashboard">Bookings</span>
                     </a>
                 </li>
